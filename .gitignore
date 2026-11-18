@@ -1,0 +1,10 @@
+cat << 'EOF' > .gitignore
+*.exe
+*.o
+*.out
+*.bin
+.vs/
+x64/
+Debug/
+Release/
+EOF
